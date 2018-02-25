@@ -20,4 +20,4 @@ operator :
 </ul>
 
 # Screenshot
-![Alt Text](https://raw.githusercontent.com/Hendriyawan/Kalkulator-CLI/master/ss_kalkulator_cli.jpg)
+![alt tag](https://raw.githubusercontent.com/Hendriyawan/Kalkulator-CLI/master/ss_kalkulator_cli.jpg)
