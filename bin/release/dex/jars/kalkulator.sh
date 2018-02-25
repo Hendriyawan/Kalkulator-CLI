@@ -1,0 +1,1 @@
+dalvikvm -classpath $PWD/kalkulator.jar Main "$@"
